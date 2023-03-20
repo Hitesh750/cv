@@ -1,0 +1,28 @@
+
+body{
+    background-color: #EAF6F6;
+    
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+}
+img{
+    height: 20vh;
+}
+h1,h2{
+    color: #62CDFF;
+    margin-left: 20px;
+}
+h3,h4{
+    color: #19A7CE;
+    margin-left: 20px;
+}
+p{
+    margin-left: 20px;
+}
+form{
+    margin-left: 20px;
+}
